@@ -1,5 +1,5 @@
 ---
-title: “Efficient Error Detection Methods for the Number Theoretic Transforms in Lattice‑Based Algorithms”
+title: Efficient Error Detection Methods for the Number Theoretic Transforms in Lattice‑Based Algorithms
 collection: publications
 category: conferences
 permalink: /publication/nttPaper
